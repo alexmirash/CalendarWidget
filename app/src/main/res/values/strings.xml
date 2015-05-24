@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">This screen is a simple placeholder, and will be shown whenever the user clicks on the widget.  In a real application, this would show detailed information..</string>
+    <string name="app_name">MiashDateWidget</string>
+    <string name="button_txt">Click Me!</string>
+    <string name="widget_name">MirashWidgetTest</string>
+</resources>
